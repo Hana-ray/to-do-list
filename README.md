@@ -40,8 +40,8 @@ I built this project to improve my front-end development skills and learn how to
 - Add category labels
 - Improve accessibility and mobile responsiveness
 
-## Live Demo
-coming soon
+## Live Demo link
+(https://hana-ray.github.io/to-do-list/)
 
 ## GitHub Repository link
 (https://github.com/Hana-ray/to-do-list)
