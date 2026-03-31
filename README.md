@@ -43,5 +43,5 @@ I built this project to improve my front-end development skills and learn how to
 ## Live Demo
 coming soon
 
-## GitHub Repository
-coming soon
+## GitHub Repository link
+(https://github.com/Hana-ray/to-do-list)
